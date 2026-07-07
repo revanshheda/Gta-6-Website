@@ -210,9 +210,7 @@ const App = () => {
                 <p className="mt-6 text-xl font-[helvetica_Now_Display]">
                   Explore. Escape. Dominate.
                 </p>
-                <button className="bg-yellow-500 mt-10 px-8 py-8 text-4xl text-black">
-                  Download Now
-                </button>
+                <a className="bg-yellow-500 mt-10 inline-block px-8 py-8 text-4xl text-black" href="https://www.rockstargames.com/VI" >Download Now</a>
               </div>
             </div>
           </div>
